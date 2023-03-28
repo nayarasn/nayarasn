@@ -5,11 +5,11 @@
 > Acompanhe aqui a minha evolução 😄 
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayarasn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayarasn&layout=compact&langs_count=16&theme=tokyonight"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nayarasn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayarasn&layout=compact&langs_count=16&theme=tokyonight"/>
 <div style="display: inline_block"><br>
 
-#### Estou focando meus estudos no momento nas seguintes habilidades 👇🏽
+### Estou focando meus estudos no momento nas seguintes habilidades 👇🏽
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
- #### Sinta-se a vontade para qualquer contribuição, contate-me abaixo.
+ ### Sinta-se a vontade para qualquer contribuição, contate-me abaixo.
  
  
 <div>  
