@@ -2,7 +2,7 @@
 
 ### 🌱 Sou a Nayara, graduada em Engenharia Ambiental, e atualmente estou em transição de carreira para a área de tecnologia. 
 
-> Acompanhe aqui a minha evolução 😄 
+> Acompanhe aqui a minha evolução  😄 
 
 <div>
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nayarasn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
