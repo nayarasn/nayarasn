@@ -1,6 +1,6 @@
 # Olá, bem  vindo ao meu  Github! 👋🏽
 
-### 🌱 Sou a Nayara, graduada em Engenharia Ambiental, e atualmente estou em transição de carreira para a área de tecnologia. 
+### 🌱  Sou a Nayara, graduada em Engenharia Ambiental, e atualmente estou em transição de carreira para a área de tecnologia. 
 
 > Acompanhe aqui a minha evolução  😄 
 
