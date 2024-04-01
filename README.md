@@ -2,7 +2,7 @@
 
 ### 🌱  Sou a Nayara, graduada em Engenharia Ambiental, Analista de Negócio com foco em dados e estudante de tecnologia! 
 
-##
+
 > Acompanhe aqui a minha evolução  😄 
 
 <div>
