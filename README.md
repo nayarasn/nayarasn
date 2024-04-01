@@ -1,6 +1,6 @@
 # Olá, bem  vindo ao meu  Github! 👋🏽
 
-### 🌱  Sou a Nayara, graduada em Engenharia Ambiental, Analista de Negócio com foco em dados e estudante de tecnologia! 
+### Sou a Nayara, graduada em Engenharia Ambiental, Analista de Negócio com foco em dados e estudante de tecnologia! 
 
 
 > Acompanhe aqui a minha evolução  😄 
