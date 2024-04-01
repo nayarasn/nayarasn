@@ -1,7 +1,6 @@
 # Olá, bem  vindo ao meu  Github! 👋🏽
 
-### Sou a Nayara, graduada em Engenharia Ambiental, Analista de Negócio com foco em dados e estudante de tecnologia! 
-
+### - Sou a Nayara, graduada em Engenharia Ambiental, Analista de Negócio com foco em dados e estudante de tecnologia! 
 
 > Acompanhe aqui a minha evolução  😄 
 
@@ -18,7 +17,6 @@
 </div>
 
  ### Sinta-se a vontade para qualquer contribuição, contate-me abaixo.
- 
  
 <div>  
   <a href = "mailto:santosnay99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
