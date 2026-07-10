@@ -1,8 +1,8 @@
-# 👋 Bem-vindo(a) ao meu perfil!
+## 👋 Bem-vindo(a) ao meu perfil!
 
-Sou **Nayara**, profissional da área de **Dados** com foco em **Engenharia** e **Análise de Dados**. Estou em constante evolução, aprimorando minhas habilidades e desenvolvendo soluções que transformam dados em valor para o negócio.
+Sou a Nayara, profissional da área de Dados e Negócio e atualmente focando em Engenharia de Dados. Estou em constante evolução, aprimorando minhas habilidades e desenvolvendo soluções que transformam dados em valor para o negócio.
 
-## 💻 Ferramentas e Tecnologias
+### Ferramentas e Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -10,7 +10,7 @@ Sou **Nayara**, profissional da área de **Dados** com foco em **Engenharia** e 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 🌱 Atualmente estudando
+### Atualmente estudando
 
 - Engenharia de Dados
 - Apache Spark
@@ -18,7 +18,7 @@ Sou **Nayara**, profissional da área de **Dados** com foco em **Engenharia** e 
 - AWS
 - Docker
 
-## 🚀 Projetos
+### 🚀 Projetos
 
 Em breve, este perfil contará com projetos relacionados a:
 
@@ -28,26 +28,17 @@ Em breve, este perfil contará com projetos relacionados a:
 - ☁️ Computação em Nuvem
 - 📦 Modelagem de Dados
 
-## 📈 Estatísticas
 
-<div align="center">
+### 🎯 Objetivos
 
-![](https://github-readme-stats.vercel.app/api?username=nayarasn&show_icons=true&theme=github_dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nayarasn&layout=compact&theme=github_dark&hide_border=true)
-
-
-## 🎯 Objetivos
-
-- Evoluir como Engenheira de Dados.
-- Desenvolver pipelines escaláveis e eficientes.
-- Aplicar boas práticas de arquitetura e processamento de dados.
+- Evoluir como Engenheira de Dados;
+- Desenvolver pipelines escaláveis e eficientes;
+- Aplicar boas práticas de arquitetura e processamento de dados;
 - Construir soluções que apoiem decisões orientadas por dados.
 
-## 📫 Contato
+### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayarasnascimento)
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santosnay99@gmail.com)
 
----
