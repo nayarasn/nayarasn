@@ -1,49 +1,62 @@
-# Olá, bem  vindo ao meu  Github! 👋🏽
+# 👋 Bem-vindo(a) ao meu perfil!
 
-### - Sou a Nayara, graduada em Engenharia Ambiental, Analista de Negócios com foco em dados e estudante de tecnologia! 
+Sou a Nayara, uma profissional da área de Dados, com foco em Engenharia e Análise de Dados. Estou em constante aprendizado, buscando aprimorar minhas habilidades e desenvolver soluções de valor.
+---
 
-> Acompanhe aqui a minha evolução  😄 
+## 🛠️ Ferramentas e Tecnologias:
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayarasn&layout=compact&langs_count=16&theme=tokyonight"/>
-<div style="display: inline_block"><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<!-- 
+---
 
-### Estou focando meus estudos no momento nas seguintes habilidades 👇🏽
+## 📚 Atualmente estudando
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+- Engenharia de Dados
+- Apache Spark
+- Apache Airflow
+- AWS
+- Docker
 
--->
+---
 
- ### Sinta-se a vontade para qualquer contribuição, contate-me abaixo.
- 
-<div>  
-  <a href = "mailto:santosnay99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nayarasnascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## 🚀 Projetos em destaque
+
+Em breve, você encontrará aqui projetos relacionados a:
+
+- 🔄 Pipelines ETL/ELT
+- 🐍 Automação com Python
+- 🗄️ Engenharia de Dados
+- 📊 Análise e Visualização de Dados
+- ☁️ Computação em Nuvem
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Objetivos
+
+- Aprimorar conhecimentos em Engenharia de Dados.
+- Desenvolver pipelines de dados escaláveis.
+- Aplicar boas práticas de modelagem e arquitetura de dados.
+- Contribuir para projetos que gerem valor por meio dos dados.
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nayarasnascimento/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santosnay99@gmail.com)
 
 
-<!--
-**nayarasn/nayarasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-#mostra a evolução de commits
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nayarasn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
- 🌱
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
