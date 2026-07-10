@@ -2,7 +2,7 @@
 
 Sou a Nayara, profissional da área de Dados e Negócio e atualmente focando em Engenharia de Dados. Estou em constante evolução, aprimorando minhas habilidades e desenvolvendo soluções que transformam dados em valor para o negócio.
 
-### Ferramentas e Tecnologias
+### Ferramentas e Tecnologias:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -10,7 +10,7 @@ Sou a Nayara, profissional da área de Dados e Negócio e atualmente focando em 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Atualmente estudando
+### Atualmente estudando:
 
 - Engenharia de Dados
 - Apache Spark
@@ -18,7 +18,7 @@ Sou a Nayara, profissional da área de Dados e Negócio e atualmente focando em 
 - AWS
 - Docker
 
-### 🚀 Projetos
+### 🚀 Projetos:
 
 Em breve, este perfil contará com projetos relacionados a:
 
@@ -29,14 +29,14 @@ Em breve, este perfil contará com projetos relacionados a:
 - 📦 Modelagem de Dados
 
 
-### 🎯 Objetivos
+### 🎯 Objetivos:
 
 - Evoluir como Engenheira de Dados;
 - Desenvolver pipelines escaláveis e eficientes;
 - Aplicar boas práticas de arquitetura e processamento de dados;
 - Construir soluções que apoiem decisões orientadas por dados.
 
-### 📫 Contato
+### 📫 Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayarasnascimento)
 
