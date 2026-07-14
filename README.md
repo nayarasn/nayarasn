@@ -33,10 +33,10 @@ Em breve, este perfil contará com projetos relacionados a:
 
 ### 🎯 Objetivos:
 
-- Evoluir como Engenheira de Dados.
-- Desenvolver pipelines escaláveis e eficientes.
-- Aplicar boas práticas de arquitetura e processamento de dados.
-- Construir soluções que apoiem decisões orientadas por dados.
+- Evoluir como Engenheira de Dados
+- Desenvolver pipelines escaláveis e eficientes
+- Aplicar boas práticas de arquitetura e processamento de dados
+- Construir soluções que apoiem decisões orientadas por dados
 
 ### 📫 Contato:
 
